@@ -1,0 +1,15 @@
+table{
+    background-color: darkcyan;
+}
+
+*{
+    padding: 5px;
+}
+#b1{
+    background-color: blue;
+    color: aqua;
+}
+#b2{
+    background-color: brown;
+    color: coral;
+}
